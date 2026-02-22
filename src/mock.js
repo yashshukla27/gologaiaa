@@ -14,7 +14,7 @@ export const mockData = {
       {
         number: "500-600M",
         unit: "tonnes",
-        label: "Livestock manure produced annually in India"
+        label: "Livestock agro-industrial manure produced annually in India"
       },
       {
         number: "28-34x",
