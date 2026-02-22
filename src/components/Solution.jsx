@@ -75,7 +75,7 @@ const Solution = () => {
                 Regional Hub Infrastructure
               </h4>
               <p className="text-neutral-300 max-w-2xl">
-                Each hub processes 4,000-4,500 tonnes of biomass annually, with 10 modular pyrolysis units optimized for 20-30 km collection radius.
+                Each hub processes 12,000-15,000 tonnes of biomass annually, with 10 modular pyrolysis units optimized for 50 km collection radius.
               </p>
             </div>
           </div>
