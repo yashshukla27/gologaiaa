@@ -84,7 +84,7 @@ export const mockData = {
         description: "Registry-grade MRV generates high-integrity carbon removal credits"
       }
     ],
-    image: "https://images.pexels.com/photos/5802215/pexels-photo-5802215.jpeg"
+    image: "https://i.ibb.co/MxkKGW7c/Chat-GPT-Image-Feb-23-2026-02-47-49-AM.png"
   },
 
   impact: {
