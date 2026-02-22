@@ -6,7 +6,7 @@ const Problem = () => {
   const { problem } = mockData;
 
   return (
-    <section id="problem" className="py-24 bg-neutral-950 relative overflow-hidden">
+    <section id="advantage" className="py-24 bg-neutral-900">
       {/* Animated Background Dots */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="flowing-dots"></div>

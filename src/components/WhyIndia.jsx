@@ -6,7 +6,7 @@ const WhyIndia = () => {
   const { whyIndia } = mockData;
 
   return (
-    <section id="why-india" className="py-24 bg-neutral-900">
+    <section id="advantage" className="py-24 bg-neutral-900">
       <div className="max-w-7xl mx-auto px-6">
         {/* Header */}
         <div className="text-center mb-16">

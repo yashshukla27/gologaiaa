@@ -1,10 +1,10 @@
-// Mock data for Golo Gaia Climate Technologies website
+// Mock data for Gologaiaa Climate Technologies website
 
 export const mockData = {
   hero: {
     headline: "Transforming Agricultural Waste into Scalable Carbon Removal Infrastructure",
-    subheading: "Reducing methane emissions and generating high-integrity carbon credits through regional biochar hubs in India.",
-    image: "https://images.unsplash.com/photo-1696233459756-009788d353ac"
+    subheading: "Reducing methane emissions and generating high-integrity carbon credits through large-scale biochar production in India.",
+    image: "https://i.ibb.co/XrrmWPhp/Chat-GPT-Image-Feb-22-2026-03-15-34-AM.png"
   },
   
   problem: {
@@ -121,7 +121,7 @@ export const mockData = {
 
   advantage: {
     title: "Competitive Advantage",
-    subtitle: "Why Golo Gaia Leads in Biochar Infrastructure",
+    subtitle: "Why Gologaiaa Leads in Biochar Infrastructure",
     points: [
       {
         title: "Manure-Focused Infrastructure",
@@ -199,8 +199,8 @@ export const mockData = {
       },
       {
         title: "Climate Finance",
-        stat: "Growing Market",
-        description: "Increasing demand for durable carbon removal credits"
+        stat: "Local Jobs. Lower Costs.",
+        description: "Creates rural jobs while lowering operating costs."
       }
     ],
     image: "https://images.unsplash.com/photo-1664791406431-7e916958e74c"
@@ -229,10 +229,10 @@ export const mockData = {
   },
 
   footer: {
-    company: "Golo Gaia Climate Technologies",
+    company: "Gologaiaa Climate Technologies",
     tagline: "Building scalable biochar infrastructure for durable carbon removal",
-    email: "contact@gologaia.com",
-    phone: "+91 (0) 000-0000",
+    email: "contact@gologaiaa.com",
+    phone: "+91 8310860018",
     address: "India",
     social: {
       linkedin: "#",

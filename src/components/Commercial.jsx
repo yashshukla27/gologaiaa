@@ -13,7 +13,7 @@ const Commercial = () => {
   const { commercial } = mockData;
 
   return (
-    <section id="commercial" className="py-24 bg-neutral-950">
+    <section id="advantage" className="py-24 bg-neutral-900">
       <div className="max-w-7xl mx-auto px-6">
         {/* Header */}
         <div className="text-center mb-16">

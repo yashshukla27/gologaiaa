@@ -14,7 +14,7 @@ const Impact = () => {
   const { impact } = mockData;
 
   return (
-    <section id="impact" className="py-24 bg-neutral-950 relative overflow-hidden">
+    <section id="advantage" className="py-24 bg-neutral-900">
       {/* Background Image */}
       <div className="absolute inset-0 opacity-10">
         <img 
