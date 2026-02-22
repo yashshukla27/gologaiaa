@@ -39,7 +39,7 @@ export const mockData = {
   solution: {
     title: "Our Solution",
     subtitle: "Regional Biochar Hub Infrastructure",
-    description: "We build modular, scalable biochar production hubs that aggregate livestock manure and agro-industrial biomass within a 20-30 km radius.",
+    description: "We build modular, scalable biochar production hubs that aggregate livestock manure and agro-industrial biomass within a 50 km radius.",
     features: [
       {
         metric: "10",
@@ -47,12 +47,12 @@ export const mockData = {
         description: "Per regional hub"
       },
       {
-        metric: "4,000-4,500",
+        metric: "12,000-15,000",
         unit: "Tonnes",
         description: "Biomass processed annually per hub"
       },
       {
-        metric: "900-1,100",
+        metric: "5000-6,500",
         unit: "tCO₂e",
         description: "Emission reduction per hub per year"
       },
