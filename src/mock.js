@@ -33,7 +33,7 @@ export const mockData = {
       "Growing global demand for durable carbon removal",
       "Limited scalable solutions for agricultural waste"
     ],
-    image: "https://images.pexels.com/photos/301600/pexels-photo-301600.jpeg"
+    image: "https://i.ibb.co/dvg5MSg/7-ADB11-E9-ADD1-49-B6-81-AB-2-E570185197-B.png"
   },
 
   solution: {
