@@ -53,7 +53,7 @@ export const mockData = {
         description: "Biomass processed annually per hub"
       },
       {
-        metric: "5000-6000",
+        metric: "5000-7000",
         unit: "tCO₂e",
         description: "Emission reduction per hub per year"
       },
