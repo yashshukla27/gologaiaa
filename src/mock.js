@@ -16,7 +16,7 @@ export const mockData = {
         label: "Livestock agro-industrial manure produced annually in India"
       },
       {
-        number: "28-34x",
+        number: 34,
         unit: "CO₂ potency",
         label: "Methane's climate warming potential"
       },
