@@ -12,7 +12,7 @@ export const mockData = {
     stats: [
       {
         number: 500,
-        suffix: "Mt",
+        suffix: " Mt",
         unit: "tonnes",
         label: "Livestock agro-industrial manure produced annually in India"
       },
