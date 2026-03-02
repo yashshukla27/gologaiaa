@@ -1,3 +1,4 @@
+"use client";
 import { useEffect, useState } from "react";
 
 export default function Counter({ start = 0, end = 100, duration = 1000 }) {
