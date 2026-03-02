@@ -1,5 +1,4 @@
 // Mock data for Gologaiaa Climate Technologies website
-
 export const mockData = {
   hero: {
     headline: "Transforming Agricultural Waste into Scalable Carbon Removal Infrastructure",
@@ -12,7 +11,7 @@ export const mockData = {
     description: "India's agricultural sector faces a critical challenge with massive environmental implications.",
     stats: [
       {
-        number: "500M",
+        number: 500,
         unit: "tonnes",
         label: "Livestock agro-industrial manure produced annually in India"
       },
