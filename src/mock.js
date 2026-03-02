@@ -58,7 +58,7 @@ export const mockData = {
         description: "Emission reduction per hub per year"
       },
       {
-        metric: "Verified",
+        metric: "VERIFIED",
         unit: "MRV",
         description: "Verra / Puro.earth verification"
       }
