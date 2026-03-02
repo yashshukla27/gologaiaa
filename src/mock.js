@@ -131,7 +131,7 @@ export const mockData = {
       },
       {
         title: "Regional Hub Aggregation",
-        description: "Efficient 20-30 km radius model optimizes logistics and scale",
+        description: "Efficient 50 km radius model optimizes logistics and scale",
         icon: "map-pin"
       },
       {
