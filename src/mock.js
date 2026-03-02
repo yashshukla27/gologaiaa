@@ -17,6 +17,7 @@ export const mockData = {
       },
       {
         number: 34,
+        suffix: "x",
         unit: "CO₂ potency",
         label: "Methane's climate warming potential"
       },
