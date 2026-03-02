@@ -232,7 +232,7 @@ export const mockData = {
   footer: {
     company: "Gologaiaa Climate Technologies",
     tagline: "Building scalable biochar infrastructure for durable carbon removal",
-    email: "contact@gologaiaa.com",
+    email: "contactgologaiaa@gmail.com",
     phone: "+91 8310860018",
     address: "India",
     social: {
