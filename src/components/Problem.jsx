@@ -38,7 +38,7 @@ const Problem = () => {
               <div className="text-5xl font-bold text-orange-400 mb-2">
                 {typeof stat.number === "number" ? (
                   <>
-                    <Counter start={320} end={stat.number} duration={900} />
+                    <Counter start={320} end={stat.number} duration={2000} />
                     M
                   </>
                 ) : (
