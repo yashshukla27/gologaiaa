@@ -12,7 +12,7 @@ export const mockData = {
     description: "India's agricultural sector faces a critical challenge with massive environmental implications.",
     stats: [
       {
-        number: "500-600M",
+        number: "500M",
         unit: "tonnes",
         label: "Livestock agro-industrial manure produced annually in India"
       },
