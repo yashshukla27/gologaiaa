@@ -53,12 +53,12 @@ export const mockData = {
         description: "Biomass processed annually per hub"
       },
       {
-        metric: "5000-7000",
+        metric: "7330",
         unit: "tCO₂e",
         description: "Emission reduction per hub per year"
       },
       {
-        metric: "VERIFIED",
+        metric: "Verified",
         unit: "MRV",
         description: "Verra / Puro.earth verification"
       }
