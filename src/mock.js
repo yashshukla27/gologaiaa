@@ -48,12 +48,12 @@ export const mockData = {
         description: "Per regional hub"
       },
       {
-        metric: "12,000-15,000",
+        metric: "14,000",
         unit: "Tonnes",
         description: "Biomass processed annually per hub"
       },
       {
-        metric: "5000-6,500",
+        metric: "5000-6000",
         unit: "tCO₂e",
         description: "Emission reduction per hub per year"
       },
