@@ -1,5 +1,5 @@
 import React from 'react';
-import Counter from '../components/Counter'; // 👈 ADD THIS
+import Counter from '../components/Counter';
 import { mockData } from '../mock';
 
 const Problem = () => {
@@ -20,9 +20,11 @@ const Problem = () => {
               Critical Challenge
             </span>
           </div>
+
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
             {problem.title}
           </h2>
+
           <p className="text-xl text-neutral-300 max-w-3xl mx-auto">
             {problem.description}
           </p>
@@ -38,8 +40,12 @@ const Problem = () => {
               <div className="text-5xl font-bold text-orange-400 mb-2">
                 {typeof stat.number === "number" ? (
                   <>
-                    <Counter start={1} end={stat.number} duration={2000} />
-                    M
+                    <Counter
+                      start={stat.start || 0}
+                      end={stat.number}
+                      duration={2500}
+                    />
+                    {stat.suffix}
                   </>
                 ) : (
                   stat.number
@@ -76,6 +82,7 @@ const Problem = () => {
             <h3 className="text-2xl font-bold text-white mb-6">
               Key Challenges
             </h3>
+
             <div className="space-y-4">
               {problem.challenges.map((challenge, index) => (
                 <div
@@ -87,6 +94,7 @@ const Problem = () => {
                       {index + 1}
                     </span>
                   </div>
+
                   <p className="text-neutral-300 leading-relaxed">
                     {challenge}
                   </p>
